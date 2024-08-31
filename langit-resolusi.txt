@@ -1,4 +1,5 @@
 resolusiku kedepanya :
-1. belajar coding minimal 2jam per hari
-2. lolos di program refactory
-3. jadi programmer profesional
+- belajar coding minimal 2jam per hari
+- jadi programmer profesional
+- membuat project yang bermanfaat
+
