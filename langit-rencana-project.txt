@@ -5,6 +5,8 @@ RENCANA PROJECT LANGIT :
 - Poke API
 - list 
 - ecommers
-  * menambahkan fitur keranjang
+ * fitur login
+ * menambahkan fitur keranjang
 - apajalah
  * project baru 1
+
