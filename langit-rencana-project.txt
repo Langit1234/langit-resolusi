@@ -6,3 +6,7 @@ RENCANA PROJECT LANGIT :
 - list 
 - ecommers
  * fitur login
+ * menambahkan fitur keranjang
+- apajalah
+ * project baru 1
+
